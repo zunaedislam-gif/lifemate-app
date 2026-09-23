@@ -1,0 +1,8 @@
+{
+  "name": "Remix LifeMate",
+  "description": "All-in-one personal life companion: smart natural-language reminders, expense tracker with categorization, borrow \u0026 lend dharkhata, document vault, lost item locator, emergency QR profile, safe arrival check-in, commitments, student routine \u0026 study tools, and intelligent assistant.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
